@@ -17,24 +17,16 @@ Welcome to **CertifyChain**, a Web3-powered platform for issuing, verifying, and
 ## 🏗️ Project Structure
 
 ```
-/client           # React Frontend
-  ├── src
-  │    ├── components
-  │    ├── pages
-  │    └── App.jsx
-/smart-contracts  # Solidity Smart Contracts
-  ├── CertificateNFT.sol
-/backend          # (Optional) Node.js/Express Server
-  └── server.js
+
 ```
 
 ## ⚙️ Tech Stack
 
 - 🖼️ **Frontend:** React.js, Tailwind CSS, Ethers.js, Web3Modal
 - 🔗 **Smart Contracts:** Solidity (ERC-721 NFT Standard)
-- 🔐 **IPFS:** Pinata or Web3.Storage
-- 🖥️ **Backend (Optional):** Node.js + Express.js
-- 🔍 **Blockchain:** Ethereum (or Polygon Testnet)
+- 🔐 **IPFS:** Web3.Storage
+- 🖥️ **Backend (Optional):** laravel
+- 🔍 **Blockchain:** Ethereum 
 
 ## 🚀 Getting Started
 
